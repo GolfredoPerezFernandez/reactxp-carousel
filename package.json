@@ -1,0 +1,20 @@
+{
+  "name": "reactxp-carousel",
+  "version": "0.0.12",
+  "description": "ReactXP Carousel Plugin with support for Web, Android and iOS",
+  "author": "Luxbyte <contact@luxbyte.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-native-snap-carousel": "^3.8.2",
+    "reactxp": "^2.0.0-rc.1"
+  },
+  "peerDependencies": {
+    "react-native": "^0.59.9",
+    "react-dom": "16.6.3",
+    "react": "16.6.3",
+    "react-native-svg": "^6.5.0",
+    "reactxp": "^1.5.0"
+  }
+}
